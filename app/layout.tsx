@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "CCasa Santa Teresita | Venta en Bogotá",
+  title: "Casa Santa Teresita | Venta en Bogotá",
   description: "Casa en venta en Teusaquillo, Bogotá D.C.",
 };
 

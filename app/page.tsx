@@ -553,7 +553,7 @@ const gallery = [
           </div>
 
           <div>
-            <h3 className="text-5xl font-black mb-3">$2.100M</h3>
+            <h3 className="text-5xl font-black mb-3">$2.200M</h3>
             <p className="text-lg text-white/80">Precio negociable</p>
           </div>
 
