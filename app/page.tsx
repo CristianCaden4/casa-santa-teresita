@@ -250,21 +250,21 @@ const gallery = [
       >
         <div className="absolute inset-0 bg-gradient-to-b from-[#2B1B17]/80 via-[#4B2E2B]/70 to-[#1E1412]/90 backdrop-blur-[2px]" />
 
-        <div className="relative z-10 max-w-5xl pt-32">
+        <div className="relative z-10 max-w-5xl pt-12">
 
           <p className="uppercase tracking-[0.4em] text-[#E8B07A] mb-6 text-sm bg-black/40 backdrop-blur-md border border-[#E8B07A]/30 inline-block px-6 py-2 rounded-full shadow-2xl">
             Casa Santa Teresita
           </p>
 
           <h1 className="text-5xl md:text-8xl font-black leading-tight mb-6">
-            Patrimonio arquitectónico con
+            Patrimonio arquitectónico de
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#E8B07A] to-[#F5D0A9]">
-              {" "}Gran Potencial
+              {" "}gran potencial
             </span>
           </h1>
 
           <p className="text-gray-300 text-lg md:text-2xl max-w-3xl mx-auto mb-10 leading-relaxed">
-            Ubicada en el tradicional sector de Teusaquillo en Bogotá D.C., Casa Santa Teresita combina arquitectura clásica, amplitud y un enorme potencial de inversión.
+            Ubicada en el tradicional sector de Teusaquillo en Bogotá D.C., esta casa combina arquitectura clásica, amplitud y un enorme potencial de inversión.
           </p>
 
           <div className="flex flex-col md:flex-row gap-5 justify-center">
