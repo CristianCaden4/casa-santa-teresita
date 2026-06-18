@@ -250,7 +250,7 @@ const gallery = [
       >
         <div className="absolute inset-0 bg-gradient-to-b from-[#2B1B17]/80 via-[#4B2E2B]/70 to-[#1E1412]/90 backdrop-blur-[2px]" />
 
-        <div className="relative z-10 max-w-5xl pt-12">
+        <div className="relative z-10 max-w-5xl pt-6">
 
           <p className="uppercase tracking-[0.4em] text-[#E8B07A] mb-6 text-sm bg-black/40 backdrop-blur-md border border-[#E8B07A]/30 inline-block px-6 py-2 rounded-full shadow-2xl">
             Casa Santa Teresita
