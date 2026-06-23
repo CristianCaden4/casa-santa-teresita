@@ -168,6 +168,14 @@ const gallery = [
     src: "/images/apto101/IMG_2057.jpeg",
     title: "Distribución funcional en múltiples niveles",
   },
+  {
+    src: "/images/apto101/IMG_2070.jpeg",
+    title: "Segundo nivel",
+  },
+  {
+    src: "/images/apto101/IMG_2071.jpeg",
+    title: "Habitaciones segundo nivel",
+  },
 ];
 
   const apartmentImages = {
@@ -206,6 +214,8 @@ const gallery = [
       "/images/apto101/IMG_2050.jpeg",
       "/images/apto101/IMG_2056.jpeg",
       "/images/apto101/IMG_2057.jpeg",
+      "/images/apto101/IMG_2070.jpeg",
+      "/images/apto101/IMG_2071.jpeg",   
     ],
   };
 
@@ -554,7 +564,7 @@ const gallery = [
 
           <div>
             <h3 className="text-5xl font-black mb-3">$2.200M</h3>
-            <p className="text-lg text-white/80">Precio negociable</p>
+            <p className="text-lg text-white/80">Precio negociable</p>  
           </div>
 
         </div>
